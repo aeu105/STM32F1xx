@@ -1,0 +1,9 @@
+{
+    "file.associations":{
+        "*.template":"latex",
+        "stm32f10x.h":"c"
+    },
+    "clang.cflags":[
+        "-I${workspaceRoot}/Libraries/CMSIS/CMSIS/CM3/DeviceSupport/ST/STM32F10x"
+    ]
+}
